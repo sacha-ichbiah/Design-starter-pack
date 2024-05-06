@@ -31,8 +31,6 @@ Icons are essential tools for visual communication, but they must be used carefu
 Animations can attract attention but be mindful of potential pitfalls like overly slow, long, or complex animations.
 - [p5.js](https://p5js.org/) — A JavaScript library for creating 2D animations.
 - [three.js](https://threejs.org) — A JavaScript library for 3D animations, requiring some knowledge of computer graphics and geometry.
-- [Stripe Globe](https://stripe.com/blog/globe) — An article on optimizing animated globes for fast loading.
-- [Polyscope](https://polyscope.run/py/) - A Python library to visualize 3D geometric structures
 
 ## Videos:
 - [How To Not Suck At Design For Developers](https://www.youtube.com/watch?v=YNOwO5s4AL8) - The title says it all. 
@@ -56,6 +54,9 @@ Animations can attract attention but be mindful of potential pitfalls like overl
 - [Typewolf](https://www.typewolf.com/resources) — A compilation of resources on typography.
 - [Design Engineering at Vercel](https://vercel.com/blog/design-engineering-at-vercel) — Insights on Vercel's approach to design.
 - [Dingboard](https://dingboard.com) — A website leveraging AI tools for image manipulation.
+- [Stripe Globe](https://stripe.com/blog/globe) — An article on optimizing animated globes for fast loading.
+- [Polyscope](https://polyscope.run/py/) - A Python library to visualize 3D geometric structures
+
 - [Computer Graphics Course](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) — Keenan Crane's courses on computer graphics, blending physics, geometry, engineering, and design.
 
 **Design Systems**
