@@ -23,7 +23,7 @@ Design is about craftsmanship. You will have to master your tools if you want to
 - [Scikit Image](https://scikit-image.org) and [PIL](https://pillow.readthedocs.io/en/stable/) - Sometimes a simple Python script is the fastest way to get stuff done.
 
 ## Icons
-Icons are essential tools for visual communication, but they must be used carefully to avoid issues like inconsistency and unclear messaging.
+Icons are essential tools for visual communication, but they must be used carefully to avoid inconsistency and unclear messaging.
 - [A Complete Guide to Iconography](https://www.designsystems.com/iconography-guide/) - Everything you need to get started.
 - [Design Principles for Icons](https://m3.material.io/styles/icons/designing-icons) - Key principles for crafting intuitive icons. 
 
