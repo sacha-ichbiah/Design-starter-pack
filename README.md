@@ -42,7 +42,7 @@ Animations can attract attention but be mindful of potential pitfalls like overl
  It's essential to expose yourself to beautiful things to get inspiration.
 - Websites: [Stripe](https://stripe.com), [Replit](https://replit.com), [Zapier](https://brand.zapier.com), [Airbnb](https://www.airbnb.com), [Varda](https://www.varda.com), [Notion](https://www.notion.so/product), [SpaceX](https://www.spacex.com), [Perplexity](https://www.perplexity.ai), [Together](https://www.together.ai)
 - Products: [iPhone](https://www.apple.com/iphone), [Cybertruck](https://www.tesla.com/cybertruck), [Figure AI Robot](https://www.figure.ai)
-- Ideas: [Monumental Labs](https://www.monumentallabs.co), [TinyGrad](https://github.com/tinygrad/tinygrad), [Tesla's Master Plan](https://www.tesla.com/ns_videos/Tesla-Master-Plan-Part-3.pdf)
+- Ideas: [Monumental Labs](https://www.monumentallabs.co), [TinyGrad](https://github.com/tinygrad/tinygrad), [Tesla's Master Plan](https://www.tesla.com/ns_videos/Tesla-Master-Plan-Part-3.pdf), [The Forge](https://nousresearch.com/forge/)
 - Code: [llm.c](https://github.com/karpathy/llm.c), [Chroma DB](https://www.trychroma.com) 
 
 ## Advanced Resources:
