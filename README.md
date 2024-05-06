@@ -10,19 +10,22 @@ Here is a minimalistic set of concepts and tools to help you get started.
 
 ## Core Concepts:
 Understanding core concepts will broaden your understanding of many things, including good software design. In summary, design is a science of consistency. It's about establishing rules and sometimes breaking them to convey messages.
-
 - [Design for Developers](https://joyofcode.xyz/design-for-developers) — An overview of design from a developer's perspective.
 - [Design Systems 101 - What is a Design System?](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/) and [Design Systems 102 - How to Build Your Design System](https://www.figma.com/blog/design-systems-102-how-to-build-your-design-system/) — Two foundational articles from Figma loaded with insights on building things in general.
 - [C.R.A.P](https://vwo.com/blog/crap-design-principles/) — A concise overview of the CRAP principles: Contrast, Alignment, Repetition, Proximity.
 
 ## Tools:
 Design is about craftsmanship. You will have to master your tools if you want to be good at it. 
-
 - [Figma](http://figma.com) — A good design operating system.
 - [Google Fonts](https://fonts.google.com) — A website to explore different fonts and integrate them easily into your websites.
 - [Canvas Color Picker](https://www.canva.com/colors/color-wheel/) — A tool for creating color palettes.
 - [Tailwind CSS](https://tailwindcss.com) — A simple way to implement CSS in web applications.
-- [Scikit Image](https://scikit-image.org) and [PIL](https://pillow.readthedocs.io/en/stable/) - Sometimes a simple Python script is the fastest way to get stuff done. 
+- [Scikit Image](https://scikit-image.org) and [PIL](https://pillow.readthedocs.io/en/stable/) - Sometimes a simple Python script is the fastest way to get stuff done.
+
+## Icons
+Icons are essential tools for visual communication, but they must be used carefully to avoid issues like inconsistency and unclear messaging.
+- [A Complete Guide to Iconography](https://www.designsystems.com/iconography-guide/) - Everything you need to get started.
+- [Design Principles for Icons](https://m3.material.io/styles/icons/designing-icons) - Key principles for crafting intuitive icons. 
 
 ## Animations:
 Animations can attract attention but be mindful of potential pitfalls like overly slow, long, or complex animations.
