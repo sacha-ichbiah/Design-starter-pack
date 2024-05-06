@@ -1,8 +1,8 @@
 # Design for Developers Starter Pack
 
-Design is both an art and a science, originating from the Latin word *designare*, meaning 'to mark out'.
+Design is both an art and a science.
 
-Design involves building things, solving problems, and conveying messages. It is a craft that relies on centuries of empirical knowledge, common practices, and usages.
+Design is about building things, solving problems, and conveying messages. It is a craft that relies on centuries of empirical knowledge, common practices, and usages.
 
 Design should be accessible to everyone.
 
