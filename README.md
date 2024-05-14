@@ -18,9 +18,14 @@ Understanding core concepts will broaden your understanding of many things, incl
 Design is about craftsmanship. You will have to master your tools if you want to be good at it. 
 - [Figma](http://figma.com) — A good design operating system.
 - [Google Fonts](https://fonts.google.com) — A website to explore different fonts and integrate them easily into your websites.
-- [Canvas Color Picker](https://www.canva.com/colors/color-wheel/) — A tool for creating color palettes.
 - [Tailwind CSS](https://tailwindcss.com) — A simple way to implement CSS in web applications.
 - [Scikit Image](https://scikit-image.org) and [PIL](https://pillow.readthedocs.io/en/stable/) - Sometimes a simple Python script is the fastest way to get stuff done.
+
+## Colors: 
+Colors are crucial to create your visual identity. There are very simple rules that helps creating nice color palettes. 
+- [Designing accessible color systems](https://stripe.com/blog/accessible-color-systems) - An article explaining how stripe managed contrast constraints when designing its systems.
+- [Canvas Color Picker](https://www.canva.com/colors/color-wheel/) — A tool for choosing and manipulating colors.
+- [Building Your Color Palette](https://www.refactoringui.com/previews/building-your-color-palette) - A tutorial to design a color palette. 
 
 ## Icons
 Icons are essential tools for visual communication, but they must be used carefully to avoid inconsistency and unclear messaging.
