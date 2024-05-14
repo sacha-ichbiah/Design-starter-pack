@@ -23,9 +23,10 @@ Design is about craftsmanship. You will have to master your tools if you want to
 
 ## Colors: 
 Colors are crucial to create your visual identity. There are very simple rules that helps creating nice color palettes. 
-- [Designing accessible color systems](https://stripe.com/blog/accessible-color-systems) - An article explaining how stripe managed contrast constraints when designing its systems.
 - [Canvas Color Picker](https://www.canva.com/colors/color-wheel/) — A tool for choosing and manipulating colors.
-- [Building Your Color Palette](https://www.refactoringui.com/previews/building-your-color-palette) - A tutorial to design a color palette. 
+- [Building Your Color Palette](https://www.refactoringui.com/previews/building-your-color-palette) - A tutorial to design a color palette.
+- [Designing accessible color systems](https://stripe.com/blog/accessible-color-systems) - An article explaining how stripe managed contrast constraints when designing its systems.
+- [Tailwind default palette](https://tailwindcss.com/docs/customizing-colors) - Tailwind default palette is perceptually uniform. This is a great place to start.
 
 ## Icons
 Icons are essential tools for visual communication, but they must be used carefully to avoid inconsistency and unclear messaging.
